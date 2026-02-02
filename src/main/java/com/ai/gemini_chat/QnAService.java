@@ -7,6 +7,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 
 import java.util.Map;
 
+
 @Service
 public class QnAService {
     //access to ApiKey and URL [gemini]
